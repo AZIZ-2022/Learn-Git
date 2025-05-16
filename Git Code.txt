@@ -1,4 +1,4 @@
-echo "# Learn-Git" >> README.md
+echo "# Learn-Git" >> README.mdd
 git init
 git add README.md
 git commit -m "first commit"
